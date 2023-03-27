@@ -1,2 +1,2 @@
 # ICS -- COMP42215 Introduction to Computer Science
-*Dr Rob Powell – Course Lecturer
+*Dr Rob Powell – Course Lecturer*
