@@ -4,6 +4,37 @@
 
 [Workshop2022: Introduction to Statistics for Data Science](https://tmaturi.github.io/ISDS2022/index.html) 
 
+### Content
+- Week 1
+  - 1 Basic Concepts 
+  - 2 Data Types in Statistics  
+  - 3 Descriptive Statistics   
+  - 4 Continuous Distributions   
+  - 5 Sampling   
+  - 6 Estimation 
+  - 7 Hypothesis Testing One Sample 
+  - 8 Hypothesis Testing Two Samples 
+  - 9 Nonparametric Tests 
+- Week 2
+  - 1 Correlation
+  - 2 Simple regression: Introduction
+  - 3 Simple Regression: Coeﬃcient of Determination
+  - 4 Simple Linear Regression: Assumptions
+  - 5 Simple Linear Regression: Inference
+  - 6 Simple Linear Regression: Conﬁdence and Prediction intervals
+  - 7 Multiple Linear Regression: Introduction  
+- Week 3
+  - 1 Introduction to Variable Selection
+  - 2 Assessing Predictive Error
+  - 3 Cross-Validation
+  - 4 The Bootstrap
+- Week 4
+- 1 Introduction
+- 2 Model-Based Classiﬁcation
+- 3 Logistic Regression  
+- 4 Discriminant Analysis  
+- 5 Assessing Predictive Error and Cross-Validation
+
 ## Assignment1: Online
 Total Points: 93 / 100
 
