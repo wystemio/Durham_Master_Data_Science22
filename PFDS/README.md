@@ -2,6 +2,21 @@
 *[Lecturer: Dr Hubert Shum](http://hubertshum.com)*  
 *[Lecturer: Dr Gagangeet Aujla](https://www.dur.ac.uk/research/directory/staff/?mode=staff&id=19534)* 
 
+## Content
+- Lecture 01a Module Introduction
+- Lecture 01b Web Programming Basics for Web Scraping
+- Lecture 02 Website Analysis and Python Preliminaries
+- Lecture 03 Web Scraping
+- Lecture 04 Web Crawling and Data Munging
+- Lecture 05 Advanced Web Programming Frameworks and How They Affect Scraping
+- Lecture 06 Designing and Implementing Web Scraping Solutions
+
+- file/data management 
+- Data preparation 
+- Correlation in Data Science using Python
+- Data Analysis
+- Complex Data Analysis
+- Data Visualisation
  
  ## FEEDBACK for *ICS username*
  ### Total mark: 84.7/100
