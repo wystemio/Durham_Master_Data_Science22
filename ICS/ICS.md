@@ -1,7 +1,7 @@
 # ICS -- COMP42215 Introduction to Computer Science
 *Dr Rob Powell – Course Lecturer*
 
-### Content
+## Content
 - Topic 1 - Python Data Types  
 - Topic 2 - Python Data Structures  
 - Topic 3 - Control Flow  
@@ -12,7 +12,7 @@
 - Topic 8 - Error Checking  
 - IO In Python  
 
-## Feedback
+## Feedback 
 ### Overall Mark 72
 
 |  Section 1 | Marks Available | Mark  |
