@@ -1,6 +1,19 @@
 # Durham_Master_Data_Science
 
-## COMP42215_2022 -- Introduction to Computer Science
+| Index | Module Title | Lecturer | Credits |
+| --- | --- | --- | --- |
+| COMP42215_2022 | Introduction to Computer Science | Dr Robert Powell | 15 |
+| PHIL42415_2022 | Ethics and Bias in Data Science  | Dr Aadil Kurji| 15 |
+| BUSI4S115_2022 | Strategic Leadership | Dr Ziya Ete | 15 |
+| MATH42715_2022 | Introduction to Statistics for Data Science | Dr Tahani Coolen-Maturi<br> Dr Sarah Heaps | 15 |
+| COMP42315_2022 | Programming for Data Science | Dr Pak Ho Shum<br> Dr Gagangeet Aujla | 15 |
+| MATH42815_2022 | Machine Learning | Dr Samuel Jackson<br> Dr Hailiang Du | 15 |
+| MATH42515_2022 | Data Exploration, Visualization and Unsupervised Learning | Dr Jonathan Cumming<br> Dr Hyeyoung Maeng | 15 | 
+| COMP42415_2022 | Text Mining and Language Analytics | Dr Stamos Katsigiannis | 15 |
+
+EBDS和Strategic Leadership这种文科型作业就是essay，就不上传交的作业了，课程内容就放在这个页面   
+IMDS这门课没选，但是既然可以看到课程内容，一起放在这个页面供参考  
+其他我选择的课程内容依据课程放到相应文件夹中  
 
 ## PHIL42415_2022 -- Ethics and Bias in Data Science 
 *这课虚得很，很不推荐选，选这个不需要选数学，事实上根据同学们的反馈，总体上数学分数比这课高得多*
@@ -36,8 +49,3 @@ Covers lecture videos 3.3 to 4.3
 In this week we will look at the mathematical description of randomness and probability, which is essential in understanding statistics, data, and measurement. Covers lecture videos 5.1 to 7.5
 
 - Week 4: More calculus and applications  
-
-## MATH42715_2022 -- Introduction to Statistics for Data Science
-
-## COMP42315_2022 -- Programming for Data Science
-
