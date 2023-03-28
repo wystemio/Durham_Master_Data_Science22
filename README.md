@@ -10,10 +10,12 @@
 | MATH42815_2022 | Machine Learning | Dr Samuel Jackson<br> Dr Hailiang Du | 15 |
 | MATH42515_2022 | Data Exploration, Visualization and Unsupervised Learning | Dr Jonathan Cumming<br> Dr Hyeyoung Maeng | 15 | 
 | COMP42415_2022 | Text Mining and Language Analytics | Dr Stamos Katsigiannis | 15 |
+| ANTH40A15_2022 | Critical Perspectives on Data and Quantification | unknown | 15 | 
 
 EBDS和Strategic Leadership这种文科型作业就是essay，就不上传交的作业了，课程内容就放在这个页面   
 IMDS这门课没选，但是既然可以看到课程内容，一起放在这个页面供参考  
-其他我选择的课程内容依据课程放到相应文件夹中  
+其他我选择的课程内容依据课程放到相应文件夹中 
+毕业项目刚刚开始  
 
 ## PHIL42415_2022 -- Ethics and Bias in Data Science 
 *这课虚得很，很不推荐选，选这个不需要选数学，事实上根据同学们的反馈，总体上数学分数比这课高得多*
