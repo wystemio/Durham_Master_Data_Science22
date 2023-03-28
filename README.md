@@ -39,5 +39,5 @@ In this week we will look at the mathematical description of randomness and prob
 
 ## MATH42715_2022 -- Introduction to Statistics for Data Science
 
-
 ## COMP42315_2022 -- Programming for Data Science
+
