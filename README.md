@@ -2,7 +2,6 @@
 
 ## COMP42215_2022 -- Introduction to Computer Science
 
-
 ## PHIL42415_2022 -- Ethics and Bias in Data Science 
 *这课虚得很，很不推荐选，选这个不需要选数学，事实上根据同学们的反馈，总体上数学分数比这课高得多*
 ### Content
@@ -39,35 +38,6 @@ In this week we will look at the mathematical description of randomness and prob
 - Week 4: More calculus and applications  
 
 ## MATH42715_2022 -- Introduction to Statistics for Data Science
-### Content
-- Week 1
-  - 1 Basic Concepts 
-  - 2 Data Types in Statistics  
-  - 3 Descriptive Statistics   
-  - 4 Continuous Distributions   
-  - 5 Sampling   
-  - 6 Estimation 
-  - 7 Hypothesis Testing One Sample 
-  - 8 Hypothesis Testing Two Samples 
-  - 9 Nonparametric Tests 
-- Week 2
-  - 1 Correlation
-  - 2 Simple regression: Introduction
-  - 3 Simple Regression: Coeﬃcient of Determination
-  - 4 Simple Linear Regression: Assumptions
-  - 5 Simple Linear Regression: Inference
-  - 6 Simple Linear Regression: Conﬁdence and Prediction intervals
-  - 7 Multiple Linear Regression: Introduction  
-- Week 3
-  - 1 Introduction to Variable Selection
-  - 2 Assessing Predictive Error
-  - 3 Cross-Validation
-  - 4 The Bootstrap
-- Week 4
-- 1 Introduction
-- 2 Model-Based Classiﬁcation
-- 3 Logistic Regression  
-- 4 Discriminant Analysis  
-- 5 Assessing Predictive Error and Cross-Validation
+
 
 ## COMP42315_2022 -- Programming for Data Science
