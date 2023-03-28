@@ -12,7 +12,7 @@
 | COMP42415_2022 | Text Mining and Language Analytics | Dr Stamos Katsigiannis | 15 |
 | ANTH40A15_2022 | Critical Perspectives on Data and Quantification | unknown | 15 | 
 
-## comments:
+## Comments:
 EBDS和Strategic Leadership这种文科型作业就是essay，就不上传交的作业了，课程内容就放在这个页面   
 IMDS这门课没选，但是既然可以看到课程内容，一起放在这个页面供参考  
 MATH的课程都是用的R，其中Dr Hailiang Du的ML部分是不强制使用什么语言的，而且作业不用交代码   
