@@ -6,6 +6,7 @@
 [Workshop2022: Machine Learning Part II](https://bookdown.org/hailiangdu/Lecture_notes/)
 
 Assignment 1 Online 选择或填空，不再上传具体题目
+Assignment 2 Ungraded
 
 ## Content
 - I Variable Subset Selection
