@@ -12,10 +12,21 @@
 | COMP42415_2022 | Text Mining and Language Analytics | Dr Stamos Katsigiannis | 15 |
 | ANTH40A15_2022 | Critical Perspectives on Data and Quantification | unknown | 15 | 
 
+## comments:
 EBDS和Strategic Leadership这种文科型作业就是essay，就不上传交的作业了，课程内容就放在这个页面   
 IMDS这门课没选，但是既然可以看到课程内容，一起放在这个页面供参考  
-其他我选择的课程内容依据课程放到相应文件夹中 
-毕业项目刚刚开始  
+MATH的课程都是用的R，其中Dr Hailiang Du的ML部分是不强制使用什么语言的，而且作业不用交代码   
+COMP的课程都是用Python，而且分数较高，能选COMP的课尽量COMP   
+其他我选择的课程内容依据课程放到相应文件夹中   
+毕业项目刚刚开始   
+
+## Tips：
+- 很多人的信息检索能力太差了，要努力提高呀，学习一下检索技巧（其实就是多加关键词和一些特殊作用的符号，再加上点耐心）
+- 出来了就不要再用百度了，主打还是Google吧，如果想用bing，也要用New Bing（虽然我一致没用，但是据说接入ChatGPT的接口后还是很强大的）
+- 善用ChatGPT：用ChatGPT学习，而不是直接让ChatGPT给你写essay
+- 文科类的essay不要一条一条ctrl+v粘贴参考文献了，学学Zotero吧，简单入门即可，装上插件（Zotero PDF Translate）就可以实现划词翻译了。简单学学就足够写essay、毕业论文了。
+- 认识一下[Overleaf](http://overleaf.com)，LaTeX语言写各种report，对数学、计算机的Report非常友好，比word写出来的论文漂亮多了，我上传的pdf report就是用的Overleaf写的。一年也就几个report，常用到的代码也就几个，特殊代码ChatGPT查一下就好了。Overleaf使用Durham账号登录就可以使用overleaf premium。
+
 
 ## PHIL42415_2022 -- Ethics and Bias in Data Science 
 *这课虚得很，很不推荐选，选这个不需要选数学，事实上根据同学们的反馈，总体上数学分数比这课高得多*
