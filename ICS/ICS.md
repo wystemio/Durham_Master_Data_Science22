@@ -1,6 +1,17 @@
 # ICS -- COMP42215 Introduction to Computer Science
 *Dr Rob Powell – Course Lecturer*
 
+### Content
+- Topic 1 - Python Data Types  
+- Topic 2 - Python Data Structures  
+- Topic 3 - Control Flow  
+- Topic 4 - Functions and Modules  
+- Topic 5 - NumPy  
+- Topic 6 - Towards Data Science  
+- Topic 7 - Towards Economics and Finance with Pandas  
+- Topic 8 - Error Checking  
+- IO In Python  
+
 ## Feedback
 ### Overall Mark 72
 
