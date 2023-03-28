@@ -43,11 +43,8 @@ IMDS这门课没选，但是既然可以看到课程内容，一起放在这个�
 *没选这门课，但是资料放开，所以也一并展示出来*
 - Week 1: Basics of vectors  
 We will start by looking at how vectors can be used to help us describe various things in the world. This leads to looking at the basic geometry of vectors. Covers lecture videos 1.1 to 3.2
-
 - Week 2: Matrices and linear transformations  
 Covers lecture videos 3.3 to 4.3
-
 - Week 3: Probability theory and Calculus  
 In this week we will look at the mathematical description of randomness and probability, which is essential in understanding statistics, data, and measurement. Covers lecture videos 5.1 to 7.5
-
 - Week 4: More calculus and applications  
