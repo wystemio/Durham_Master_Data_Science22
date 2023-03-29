@@ -29,11 +29,11 @@
   - 3 Cross-Validation
   - 4 The Bootstrap
 - Week 4
-- 1 Introduction
-- 2 Model-Based Classiﬁcation
-- 3 Logistic Regression  
-- 4 Discriminant Analysis  
-- 5 Assessing Predictive Error and Cross-Validation
+  - 1 Introduction
+  - 2 Model-Based Classiﬁcation
+  - 3 Logistic Regression  
+  - 4 Discriminant Analysis  
+  - 5 Assessing Predictive Error and Cross-Validation
 
 ## Assignment1: Online
 Total Points: 93 / 100
